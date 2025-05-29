@@ -1,4 +1,4 @@
-# vpshardening
+# VPS Hardening Example
 This is an example of steps that you might take to help harden your VPS security.
 
 This is in no way meant to be a be-all end-all solution, so be sure to test it. Verify it. I may have missed something and I take no responsibility for your server's security.
